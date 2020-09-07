@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello world!
+- I develop games with Unity
+- I hope be a cool developer
 
-<!--
-**gamejun16/gamejun16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My experience
+- Unity
+- OpenCV(with C++)
+- Operate website about covid-19 info
+- Drone education game with drone remote controller
 
-Here are some ideas to get you started:
+    
+<div align=center>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![image](https://user-images.githubusercontent.com/24224903/92386112-162ccf80-f14e-11ea-9644-9603a1fd34d0.png)
+   <h6>2020-09-04 Include private projects </h6>
+   <br>
+   
+   
+   </div>
