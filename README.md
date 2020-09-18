@@ -12,7 +12,7 @@
 <div align=center>
   
 
-  ![image](https://user-images.githubusercontent.com/24224903/92386112-162ccf80-f14e-11ea-9644-9603a1fd34d0.png)
+![image](https://user-images.githubusercontent.com/24224903/93631497-a8728480-fa26-11ea-8bd2-7b4c7387e363.png)
    <h6>2020-09-04 Include private projects </h6>
    <br>
    
